@@ -1,4 +1,4 @@
-# MaahirLoginSystem
+# MaahirSudokuSolver
 Sudoku solver that uses a backtracking algo and recursion to solve any valid sudoku puzzle. 
 
 
